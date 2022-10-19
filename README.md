@@ -1,6 +1,6 @@
 # Game_Store_App 
 
-A new Flutter project.
+A new Flutter project, this is my first project where i used what i learned in the time i studied.
 
 # Images
 
