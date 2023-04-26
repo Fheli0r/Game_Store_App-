@@ -1,4 +1,4 @@
-# Game_Store_App 
+# E-Commerce Game APP
 
 A new Flutter project, this is my first project where i used what i learned in the time i studied.
 
